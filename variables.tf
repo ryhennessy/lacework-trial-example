@@ -2,7 +2,7 @@ variable lacework-account {
   type = string 
 }
 
-variable laceowrk-api-secret {
+variable lacework-api-secret {
   type = string 
 }
   
